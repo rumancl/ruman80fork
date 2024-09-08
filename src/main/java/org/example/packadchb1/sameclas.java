@@ -5,4 +5,6 @@ public class sameclas {
   //again i have edited
   //i have done3
   //i have done 4
+    //rumloval
+    //iamdoinggood
 }
